@@ -10,7 +10,7 @@ Leveraging OpenCV's extensive image processing capabilities, this repository off
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/image-watermarker.git
+   git clone https://github.com/11a55an/image-watermarket-using-opencv.git
    ```
 2. Install opencv-python using:
    ```sh
